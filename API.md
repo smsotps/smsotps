@@ -1,6 +1,6 @@
 # SMS OTPS API
 
-Checked against the live SMS OTPS API. The live API is the source of truth.
+Written against the current backend implementation and the live public catalog and offer responses. Authenticated order and payment flows were not exercised. The live API is the source of truth.
 
 Use the SMS OTPS API to check offers, place number orders, read incoming verification messages, and cancel or resend from your own application.
 
